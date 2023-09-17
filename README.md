@@ -1,2 +1,2 @@
 # login-page
-This is a login page to get in the website.
+This is a login page with HTML CSS and Javascript
